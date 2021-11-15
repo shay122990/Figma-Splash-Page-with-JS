@@ -2,8 +2,8 @@
 
 ## About The Project
 
-This is a splash page built with vanilla JavaScript, using Figma image assets for CSS styling. You also have three toggles on top right corner that would allow you to change the background styling. You can customize your backgrounds and use it in your own projects. Perhaps, you want to built a landing page for a client or yourself and can't settle on a design, this will allow you to have a better presentation on options. <br/>
-Figma is tool for web designers, to create mockups, layouts, measuring and spacings. It gives you CSS values to see how things should be positioned on the page. You can also export individual layers and much more.
+This is a splash page built with vanilla JavaScript, using Figma design and image assets for CSS styling. You also have three toggles on top right corner that would allow you to change the background styling. You can customize your backgrounds and use it in your own projects. Perhaps, you want to built a landing page for a client or yourself and can't settle on a design, this will allow you to have a better presentation on options. <br/>
+Figma is tool for web designers, to create mockups, layouts, measuring and spacings. It gives you CSS values to see how things should be positioned on the page. You can copy peoples design and make it function. You can also export individual layers and more. You can also export the images to your projects.
 This is intended for anyone to use in their own porjects, or simply learn the methods and tools applied. Below I have listed related links.
 
 ## Preview

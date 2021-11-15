@@ -8,7 +8,7 @@ This is intended for anyone to use in their own porjects, or simply learn the me
 
 ## Preview
 
-! [Initial view](media/image1.gif)
+![Initial view](media/image1.gif)
 
 ## Built With
 
